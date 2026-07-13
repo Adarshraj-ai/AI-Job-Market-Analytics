@@ -22,7 +22,7 @@ This project demonstrates data cleaning, modeling, DAX measures, and dashboard d
 
 # 📊 Dashboard 1 – AI Job Market Analytics
 
-<img width="100%" src="Images/ddashboard1.png">
+<img width="100%" src="Images/dashboard1.png">
 
 ### Key Insights
 
