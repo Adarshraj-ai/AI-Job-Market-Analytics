@@ -20,7 +20,7 @@ Built end-to-end in Power BI — from raw Excel data to a polished, interactive 
 
 ## 📊 Dashboard 1 — AI Job Market Analytics
 
-<img width="100%" src="images/dashboard1.png">
+<img width="100%" src="Images/dashboard1.png">
 
 **Key Insights**
 - 📈 Total Jobs & Total Companies
@@ -35,7 +35,7 @@ Built end-to-end in Power BI — from raw Excel data to a polished, interactive 
 
 ## 💰 Dashboard 2 — Salary Analytics
 
-<img width="100%" src="images/dashboard2.png">
+<img width="100%" src="Images/dashboard2.png">
 
 **Key Insights**
 - Average Minimum / Maximum Salary
@@ -49,7 +49,7 @@ Built end-to-end in Power BI — from raw Excel data to a polished, interactive 
 
 ## 🧠 Dashboard 3 — Skills Analytics
 
-<img width="100%" src="images/dashboard3.png">
+<img width="100%" src="Images/dashboard3.png">
 
 **Key Insights**
 - Average Skills Required per Role
