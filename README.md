@@ -153,7 +153,7 @@ Data Cleaning · Data Transformation · Data Modeling · DAX Measures · Dashboa
 **Adarsh Raj**
 📧 <adarshmass111b@gmail.com>
 🔗 [github.com/Adarshraj-ai](https://github.com/Adarshraj-ai)
-🔗 [linkedin.com/in/adarsh-raj-b87942325](https://www.linkedin.com/in/adarsh-raj-b87942325/)
+🔗 [linkedin.com/in/adarsh-singh-b87942325](https://www.linkedin.com/in/adarsh-singh-b87942325/)
 
 ---
 
